@@ -9,8 +9,6 @@
 </head>
 
 <body>
-    <h1>Meu componente livewire</h1>
-
     {{ $slot }}
 </body>
 
